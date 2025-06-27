@@ -1,0 +1,4 @@
+"gradio[mcp]" 
+textblob
+"smolagents[mcp]"
+mcp
